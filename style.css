@@ -1,0 +1,23 @@
+body {
+    background-color: #00A987;
+}
+
+.bg-image {
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-green {
+    color: #fff;
+    background-color: #6640ff;
+    border-color: #6640ff;
+}
+
+div.main {
+    margin-top: 75px;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
+}
